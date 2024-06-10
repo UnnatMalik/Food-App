@@ -6,12 +6,13 @@ This Food App is not a fully fleged food app but a frontend or UI of a food App 
 
 ## Screenshots
 
-![App Screenshot]("C:\Users\Unnat Malik\OneDrive\Pictures\Screenshots\Screenshot 2024-06-09 203531.png")
+![Screenshot 2024-06-09 203531](https://github.com/UnnatMalik/Food-App/assets/160745526/64bfa466-e989-44ce-8d5a-8c79282f4706)
+
 
 
 ## Interface
 
-<video controls src=" 2024-06-10 12-37-05.mp4" title="Title"></video>
+"C:\Users\Unnat Malik\Videos\Captures\ 2024-06-10 12-37-05.mp4"
 
 
 ## Lessons Learned
