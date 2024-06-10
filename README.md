@@ -2,7 +2,7 @@
 # Food App
 
 This Food App is not a fully fleged food app but a frontend or UI of a food App it is made in python using Flet Module.
-
+This is the home page of Food App
 
 ## Screenshots
 
@@ -12,7 +12,7 @@ This Food App is not a fully fleged food app but a frontend or UI of a food App 
 
 ## Interface
 
-"C:\Users\Unnat Malik\Videos\Captures\ 2024-06-10 12-37-05.mp4"
+
 
 
 ## Lessons Learned
